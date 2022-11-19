@@ -1,9 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-void file(string str){
-	freopen((str+".in").c_str(),"r",stdin);
-	freopen((str+".out").c_str(),"w",stdout);
-}
 string lis[8]={"暂无评定","入门","普及-","普及/提高-","普及+/提高","提高+/省选-","省选/NOI-","NOI/NOI+/CTSC"};
 string col[8]={"BFBFBF","FE4C61","F39C11","FFC116","52C41A","3498DB","9D3DCF","0E1D69"};
 int cnt[8];
@@ -11,11 +7,11 @@ struct problem{
 	string id,name;
 };
 vector<problem>p[8];
-ifstream luogu("luogu.txt");
+ifstream luogu("online.txt");
 map<string,bool>havedone;
 int main(){
-    freopen("b.txt","r",stdin);
-    freopen("c.txt","w",stdout);
+    freopen("modified.txt","r",stdin);
+    freopen("output.txt","w",stdout);
 	string a,b,c;
 	while(cin>>a>>b>>c){
 		for(int i=0;i<8;i++){
