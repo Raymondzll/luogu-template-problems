@@ -19,7 +19,8 @@ int main(){
 		}
 	}
 	while(luogu>>a){
-		havedone[a.substr(1,a.size()-2)]=1;
+		if(a[0]<'A'||a[0]>'Z'||a[0]=='N')continue;
+		havedone[a]=1;
 	}
 	cout<<"| | | |\n|--|--|--|\n";
 	for(int i=0;i<8;i++){
