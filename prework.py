@@ -1,6 +1,6 @@
 import re
-with open("origin.txt") as f:
-    g=open("modified.txt",'w')
+with open("origin.txt",'r',encoding='utf-8') as f:
+    g=open("modified.txt",'w',encoding='utf-8')
     st=f.read()
     s=re.split("\t|\n",st)
     tot=0
