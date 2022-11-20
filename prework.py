@@ -1,6 +1,7 @@
 import re
 with open("origin.txt",'r',encoding='utf-8') as f:
     g=open("modified.txt",'w',encoding='utf-8')
+    g.write('暂无评定 入门 普及- 普及/提高- 普及+/提高 提高+/省选- 省选/NOI- NOI/NOI+/CTSC\n')
     st=f.read()
     s=re.split("\t|\n",st)
     tot=0
