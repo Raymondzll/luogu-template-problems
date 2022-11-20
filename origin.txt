@@ -1,4 +1,4 @@
-﻿P6656	【模板】Runs	
+P6656	【模板】Runs	
 NOI/NOI+/CTSC	
 P3378	【模板】堆	
 普及-	

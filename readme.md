@@ -1,5 +1,5 @@
-# Ç°ÖÃÌõ¼þ£ºÔÚ×Ô¼ºµÄµçÄÔÉÏ±àÒëmain.cpp
+# å‰ç½®æ¡ä»¶ï¼šåœ¨è‡ªå·±çš„ç”µè„‘ä¸Šç¼–è¯‘main.cpp
 
-ÓÃ·¨£º½«×Ô¼ºµÄÂå¹ÈÖ÷Ò³Á·Ï°Çé¿öð¤ÌùÖÁonline.txt£¬ÔËÐÐmain.exe£¬ÔÚoutput.txtÖÐ²é¿´¡£
+ç”¨æ³•ï¼šå°†è‡ªå·±çš„æ´›è°·ä¸»é¡µç»ƒä¹ æƒ…å†µé»è´´è‡³online.txtï¼Œè¿è¡Œmain.exeï¼Œåœ¨output.txtä¸­æŸ¥çœ‹ã€‚
 
-Èç¹ûÒÔºóÓÐÐÂµÄÄ£°åÌâ£¬¸´ÖÆµ½origin.txt£¨×¢Òâ¸ñÊ½ºÍÒÑ¾­ÓÐµÄÒ»ÖÂ£©£¬ÔËÐÐprework.py¼´¿É£¨´ËÊ±modified.txt»á¸üÐÂ¡££©
+å¦‚æžœä»¥åŽæœ‰æ–°çš„æ¨¡æ¿é¢˜ï¼Œå¤åˆ¶åˆ°origin.txtï¼ˆæ³¨æ„æ ¼å¼å’Œå·²ç»æœ‰çš„ä¸€è‡´ï¼‰ï¼Œè¿è¡Œprework.pyå³å¯ï¼ˆæ­¤æ—¶modified.txtä¼šæ›´æ–°ã€‚ï¼‰

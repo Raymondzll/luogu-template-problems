@@ -1,4 +1,4 @@
-﻿P6656
+P6656
 Runs
 NOI/NOI+/CTSC
 P3378
